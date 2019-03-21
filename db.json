@@ -1,0 +1,24 @@
+{
+  "receitas": [
+    {
+      "name": "BOLO DE MILHO CREMOSO",
+      "preparo": "90min",
+      "redimento": "10 porçoes",
+      "rating": 4.869,
+      "ingredientes": [
+        {
+          "produto":"milho verde",
+          "qtd": "1 lata"
+        },
+        {
+          "produto":"óleo",
+          "qtd": "1 lata"
+        },
+        {
+          "produto":"ovos",
+          "qtd": 4
+        } 
+      ]
+    }
+  ]
+}
