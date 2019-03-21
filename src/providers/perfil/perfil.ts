@@ -10,5 +10,10 @@ export class PerfilProvider {
     favoritos.push(id);
     localStorage.setItem("favoritos", JSON.stringify(favoritos));
   }
-
+  getPerfil():any{
+    return localStorage.getItem("favoritos");
+  }
+  clearPerfil(){
+    localStorage.clear();
+  }
 }
